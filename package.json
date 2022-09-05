@@ -1,0 +1,14 @@
+{
+  "name": "kafka-failover",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kafkajs": "git+ssh://git@github.com/figma/kafkajs.git#bdb448548e24f5f0a5d0d37ee1af7b0eb32b083b"
+  }
+}
